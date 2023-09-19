@@ -2,7 +2,8 @@ from django.apps import apps as django_apps
 from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.utils.decorators import method_decorator
-from edc_pharmacy.medications import PrescriptionApprovalValidator, PrescriptionApprovalValidatorError
+from edc_pharmacy.medications import (
+    PrescriptionApprovalValidator, PrescriptionApprovalValidatorError)
 
 from .base_action_view import BaseActionView
 
