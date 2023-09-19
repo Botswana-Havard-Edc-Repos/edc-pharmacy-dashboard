@@ -11,7 +11,8 @@ from edc_pharmacy_dashboard.views import HomeView, DispensingView
 # from edc_pharmacy_dashboard.views.listboard_views import (
 # AppointmentListboardView, PrescriptionListboardView,
 # WorklistListboardView)
-# from edc_pharmacy_dashboard.views.action_views import DispensePrintLabelActionView, DispensingActionView
+# from edc_pharmacy_dashboard.views.action_views import(
+#    DispensePrintLabelActionView, DispensingActionView)
 from edc_pharmacy_dashboard.views.listboard_views import PrescribeListboardView
 # from edc_pharmacy_dashboard.views.listboard_views import AppointmentListboardView
 
