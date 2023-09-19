@@ -16,7 +16,7 @@ class AppointmentListboardView(BaseListboardView):
 
     model = 'edc_pharmacy.appointment'
     model_wrapper_cls = AppointmentModelWrapper
-    form_action_url_name = f'edc_pharmacy_dashboard:dispensing_action_url'
+    form_action_url_name = 'edc_pharmacy_dashboard:dispensing_action_url'
     listboard_url_name = app_config.appointment_listboard_url_name
     listboard_template_name = app_config.appointment_listboard_template_name
     show_all = True
