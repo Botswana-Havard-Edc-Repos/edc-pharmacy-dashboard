@@ -11,5 +11,6 @@ git+https://github.com/botswana-harvard/edc-device.git@867751966a4449ffd17719aad
 git+https://github.com/botswana-harvard/edc-timepoint.git@2231996b42606a422ef4763c3ab388cddf38abbe
 git+https://github.com/botswana-harvard/edc-identifier.git@c849cdb598d87082ab2008d7855bd1710e7023de
 git+https://github.com/botswana-harvard/edc-protocol.git@eb9bce9c4e832543c9171d1fabacd25b5db25f90
+git+https://github.com/botswana-harvard/edc-pharmacy.git
 git+https://github.com/botswana-harvard/edc-model-wrapper.git@814b9f85feceed246e378425ab6add8bba3b655f
 django-tz-detect
