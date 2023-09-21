@@ -21,3 +21,4 @@ git+https://github.com/botswana-harvard/edc-search.git@9d60b5b606b903245fad0004e
 git+https://github.com/botswana-harvard/edc-visit-schedule.git@71588bc1e9f1e5218ab524940b11c4ec406fee9f
 git+https://github.com/botswana-harvard/edc-facility.git@3cd82c74b28ec22d16c4d627eff1aaf311af4287
 django-tz-detect
+django-audit-fields
