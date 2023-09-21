@@ -1,6 +1,7 @@
 git+https://github.com/botswana-harvard/edc-appointment.git@develop#egg=edc_appointment
 git+https://github.com/botswana-harvard/edc-base.git@develop#egg=edc_base
 git+https://github.com/botswana-harvard/edc-base-test.git@develop#egg=edc_base_test
+git+https://github.com/botswana-harvard/edc-calendar.git@ff5c634735cb3e5a5bdd59abbd0942dfddc5697f
 git+https://github.com/botswana-harvard/edc-consent.git@develop#egg=edc_consent
 git+https://github.com/botswana-harvard/edc-constants.git@develop#egg=edc_constants
 git+https://github.com/botswana-harvard/edc-dashboard.git@develop#egg=edc_dashboard
